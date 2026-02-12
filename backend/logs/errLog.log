@@ -1,0 +1,8 @@
+20250622	12:10:28	1089492e-d823-49d5-9f80-c247f376bb93	SyntaxError : Expected double-quoted property name in JSON at position 104	POST	/api/auth/signup	undefined
+20250622	12:10:42	e9c504f4-4df5-4e8c-bda0-71b43e999b77	SyntaxError : Expected double-quoted property name in JSON at position 101	POST	/api/auth/signup	undefined
+20250622	12:10:50	3820c508-55a2-449d-a861-5123c5be80c4	SyntaxError : Expected double-quoted property name in JSON at position 105	POST	/api/auth/signup	undefined
+20250628	15:45:33	327b49ee-4e77-4b27-8345-cc05b55a7a48	PayloadTooLargeError : request entity too large	POST	/api/auth/update	http://localhost:3000
+20250629	00:31:36	12965bd7-7b32-461c-a620-ef9e22067fe4	PayloadTooLargeError : request entity too large	POST	/api/auth/update	http://localhost:3000
+20250629	00:33:30	099566ad-260c-4601-a523-9912d2c42c00	PayloadTooLargeError : request entity too large	POST	/api/auth/update	http://localhost:3000
+20250629	00:39:05	521da50f-39b0-4f54-a2de-a58b0929468f	PayloadTooLargeError : request entity too large	PUT	/api/auth/update	http://localhost:3000
+20250629	00:47:23	7e399fae-26a9-4f78-9722-a2e7258e04c6	PayloadTooLargeError : request entity too large	PUT	/api/auth/update	http://localhost:3000
